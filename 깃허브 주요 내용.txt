@@ -1,9 +1,15 @@
 1. GitHub 가입
+
 2. GitHub 저장소 생성
+
 3. GitHub 저장소 클론
-4. 문서에 GitHub 저장소 이름이랑 같은 폴더 생성
+ 문서에 GitHub 저장소 이름이랑 같은 폴더 생성
  호스트 : GitHub  로컬 : 내컴퓨터 문서 Unity-Project-Result
-5. Add : 스테이지 올리기
-6. 커밋하기 (Commit) 세이브 등록하기 
-7. Push 하기는 낸 컴퓨터 로컬에서 호스트인 GitHub 저장소로 파일을 send
-8. 저장소 삭제 
+
+4. Add : 스테이지 올리기
+
+5. 커밋하기 (Commit) 세이브 등록하기 
+
+6. Push 하기는 낸 컴퓨터 로컬에서 호스트인 GitHub 저장소로 파일을 send
+
+7. 저장소 삭제 
